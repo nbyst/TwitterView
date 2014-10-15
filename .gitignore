@@ -1,0 +1,13 @@
+# eclipse profiles
+/.classpath
+/.project
+/.settings/
+/eclipse/
+
+# intelij IDEA profiles
+/.idea/
+/TwitterView.iml
+/TwitterView.ipr
+
+# eclipse? intelij?
+/tmp
